@@ -1,272 +1,608 @@
-.lst-kix\_fss37dbw7hwo-4>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-4}.lst-kix\_fss37dbw7hwo-7>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-7}ol.lst-kix\_fss37dbw7hwo-3.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-3 0}ol.lst-kix\_fss37dbw7hwo-8.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-8 0}ol.lst-kix\_fss37dbw7hwo-7.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-7 0}.lst-kix\_fss37dbw7hwo-8>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-8,lower-roman) ". "}ol.lst-kix\_fss37dbw7hwo-0.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-0 0}ol.lst-kix\_fss37dbw7hwo-2.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-2 0}ol.lst-kix\_fss37dbw7hwo-5.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-5 0}.lst-kix\_fss37dbw7hwo-1>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-1}.lst-kix\_fss37dbw7hwo-0>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-0,decimal) ") "}ol.lst-kix\_fss37dbw7hwo-4.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-4 0}ol.lst-kix\_fss37dbw7hwo-7{list-style-type:none}.lst-kix\_fss37dbw7hwo-1>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-1,lower-latin) ") "}.lst-kix\_fss37dbw7hwo-2>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-2,lower-roman) ") "}ol.lst-kix\_fss37dbw7hwo-8{list-style-type:none}.lst-kix\_fss37dbw7hwo-0>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-0}ol.lst-kix\_fss37dbw7hwo-3{list-style-type:none}ol.lst-kix\_fss37dbw7hwo-4{list-style-type:none}.lst-kix\_fss37dbw7hwo-8>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-8}ol.lst-kix\_fss37dbw7hwo-5{list-style-type:none}ol.lst-kix\_fss37dbw7hwo-6{list-style-type:none}.lst-kix\_fss37dbw7hwo-2>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-2}ol.lst-kix\_fss37dbw7hwo-0{list-style-type:none}.lst-kix\_fss37dbw7hwo-5>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-5}ol.lst-kix\_fss37dbw7hwo-1{list-style-type:none}ol.lst-kix\_fss37dbw7hwo-2{list-style-type:none}ol.lst-kix\_fss37dbw7hwo-1.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-1 0}.lst-kix\_fss37dbw7hwo-7>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-7,lower-latin) ". "}.lst-kix\_fss37dbw7hwo-5>li:before{content:"(" counter(lst-ctn-kix\_fss37dbw7hwo-5,lower-roman) ") "}.lst-kix\_fss37dbw7hwo-6>li:before{content:"" counter(lst-ctn-kix\_fss37dbw7hwo-6,decimal) ". "}.lst-kix\_fss37dbw7hwo-3>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-3}.lst-kix\_fss37dbw7hwo-3>li:before{content:"(" counter(lst-ctn-kix\_fss37dbw7hwo-3,decimal) ") "}.lst-kix\_fss37dbw7hwo-4>li:before{content:"(" counter(lst-ctn-kix\_fss37dbw7hwo-4,lower-latin) ") "}ol.lst-kix\_fss37dbw7hwo-6.start{counter-reset:lst-ctn-kix\_fss37dbw7hwo-6 0}.lst-kix\_fss37dbw7hwo-6>li{counter-increment:lst-ctn-kix\_fss37dbw7hwo-6}ol{margin:0;padding:0}table td,table th{padding:0}.c5{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#000000;border-left-style:solid;border-bottom-width:1pt;width:64.5pt;border-top-color:#000000;border-bottom-style:solid}.c10{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:64.5pt;border-top-color:#000000;border-bottom-style:solid}.c13{padding-top:18pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left;height:16pt}.c3{padding-top:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.c19{padding-top:18pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.c14{color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Arial";font-style:normal}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:"Arial";font-style:normal}.c18{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:20pt;font-family:"Arial";font-style:normal}.c22{padding-top:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.c9{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:13pt;font-family:"Arial";font-style:normal}.c23{padding-top:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:center}.c4{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c11{color:#666666;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Arial";font-style:normal}.c6{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c0{text-decoration-skip-ink:none;font-size:13pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c15{border-spacing:0;border-collapse:collapse;margin-right:auto}.c20{background-color:#ffffff;max-width:451.4pt;padding:72pt 72pt 72pt 72pt}.c7{background-color:#ffffff;page-break-after:avoid;height:12pt}.c16{color:inherit;text-decoration:inherit}.c12{background-color:#ffffff;page-break-after:avoid}.c8{height:11pt}.c21{height:24.7pt}.c17{height:0pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}
+# <span class="c18">Разбор карты Element TD из Warcraft3</span>
 
-Разбор карты Element TD из Warcraft3
-====================================
+## <span class="c1"></span>
 
-Основные стихии
----------------
+## <span class="c1">Основные стихии</span>
 
-  
-1) Тьма
+<span class="c4">  
+1) Тьма</span>
 
-2) Свет  
+<span class="c4">2) Свет  
 3) Земля  
-4) Природа
+4) Природа</span>
 
-5) Огонь  
+<span class="c4">5) Огонь  
 6) Вода  
+</span>
 
-Комбинации  
+## <span class="c1"></span>
 
--------------
+## <span class="c1">Комбинации  
+</span>
 
-### Из двух элементов
+### <span class="c14">Из двух элементов</span>
 
-Тьма
+<a id="t.91f3dc8780655f1e498fae1d9b0581ab62186858"></a><a id="t.0"></a>
 
-Свет
+<table class="c15">
 
-Земля
+<tbody>
 
-Природа
+<tr class="c17">
 
-Огонь
+<td class="c10" colspan="1" rowspan="1">
 
-Вода
+<span class="c9"></span>
 
-Тьма
+</td>
 
-[Тьма + Свет](#id.1h9mvxrk3135)
+<td class="c10" colspan="1" rowspan="1">
 
-[Тьма + земля](#id.is7p8mqw2ove)
+<span class="c9">Тьма</span>
 
-[Тьма + природа](#id.fuhve8xz5q6p)
+</td>
 
-[Огонь + Тьма](#id.go1bfdi4uhya)
+<td class="c10" colspan="1" rowspan="1">
 
-[Тьма + Вода](#id.6pamp44xcvvr)
+<span class="c9">Свет</span>
 
-Свет
+</td>
 
-[Свет + Земля](#id.p3kqj12v47bf)
+<td class="c10" colspan="1" rowspan="1">
 
-[Свет + Природа](#id.5flojarmefvc)
+<span class="c9">Земля</span>
 
-[Свет + Огонь](#id.e4zbs5t3qo0q)
+</td>
 
-[Свет + Вода](#id.wm1ay61rkrfi)
+<td class="c10" colspan="1" rowspan="1">
 
-Земля
+<span class="c9">Природа</span>
 
-[Земля + Природа](#id.3w1r7vz36vr6)
+</td>
 
-[Земля + Огонь](#id.no4eyjuf4jm5)
+<td class="c10" colspan="1" rowspan="1">
 
-[Земля + Вода](#id.j177vuuij9or)
+<span class="c9">Огонь</span>
 
-Природа
+</td>
 
-[Природа + Огонь](#id.csf5ftwdcfx1)
+<td class="c10" colspan="1" rowspan="1">
 
-[Природа + Вода](#id.7i0foym5xtdn)
+<span class="c9">Вода</span>
 
-Огонь
+</td>
 
-[Огонь + Вода](#id.fqomb5frf3vk)
+</tr>
 
-Вода
+<tr class="c17">
 
-### Их трех элементов
+<td class="c10" colspan="1" rowspan="1">
 
-#### Вода - Огонь - Земля  
-![](images/image31.jpg)  
-![](images/image45.jpg)
+<span class="c9">Тьма</span>
 
-#### Огонь- Вода - Тьма
+</td>
 
-![](images/image8.jpg)
+<td class="c5" colspan="1" rowspan="1">
 
-![](images/image37.jpg)
+<span class="c9"></span>
 
-#### Огонь - Земля - Тьма  
-![](images/image20.jpg)  
-![](images/image1.jpg)  
-  
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Тьма + Свет](#id.1h9mvxrk3135)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Тьма + земля](#id.is7p8mqw2ove)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Тьма + природа](#id.fuhve8xz5q6p)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Огонь + Тьма](#id.go1bfdi4uhya)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Тьма + Вода](#id.6pamp44xcvvr)</span>
+
+</td>
+
+</tr>
+
+<tr class="c21">
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c9">Свет</span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Свет + Земля](#id.p3kqj12v47bf)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Свет + Природа](#id.5flojarmefvc)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Свет + Огонь](#id.e4zbs5t3qo0q)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Свет + Вода](#id.wm1ay61rkrfi)</span>
+
+</td>
+
+</tr>
+
+<tr class="c21">
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c9">Земля</span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Земля + Природа](#id.3w1r7vz36vr6)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Земля + Огонь](#id.no4eyjuf4jm5)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Земля + Вода](#id.j177vuuij9or)</span>
+
+</td>
+
+</tr>
+
+<tr class="c17">
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c9">Природа</span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Природа + Огонь](#id.csf5ftwdcfx1)</span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Природа + Вода](#id.7i0foym5xtdn)</span>
+
+</td>
+
+</tr>
+
+<tr class="c17">
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c9">Огонь</span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c0">[Огонь + Вода](#id.fqomb5frf3vk)</span>
+
+</td>
+
+</tr>
+
+<tr class="c17">
+
+<td class="c10" colspan="1" rowspan="1">
+
+<span class="c9">Вода</span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+<td class="c5" colspan="1" rowspan="1">
+
+<span class="c9"></span>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### <span class="c14">Их трех элементов</span>
+
+#### <span>Вода - Огонь - Земля  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image31.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image45.jpg)</span>
+
+#### <span class="c11"></span>
+
+#### <span class="c11">Огонь- Вода - Тьма</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image8.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image37.jpg)</span>
+
+<span class="c4"></span>
+
+#### <span>Огонь - Земля - Тьма  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image20.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image1.jpg)</span><span>  
+
 Вода - Земля - Тьма  
-![](images/image39.jpg)  
-![](images/image49.jpg)  
-  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image39.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image49.jpg)</span><span>  
+
 Вода - Свет - Огонь  
-![](images/image7.jpg)
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image7.jpg)</span>
 
-#### Свет - Огонь - Земля  
-![](images/image18.jpg)  
-![](images/image55.jpg)  
+#### <span>Свет - Огонь - Земля  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image18.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image55.jpg)</span><span class="c11">  
+</span>
 
-#### Вода - Свет - Земля  
-![](images/image53.jpg)  
-![](images/image17.jpg)  
-  
+#### <span>Вода - Свет - Земля  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image53.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image17.jpg)</span><span class="c11">  
 
-#### Свет - Огонь - Тьма![](images/image24.jpg)  
-![](images/image46.jpg)  
-  
+</span>
 
-#### Вода - Свет - Тьма  
-![](images/image44.jpg)  
-  
-земля тьма свет
+#### <span>Свет - Огонь - Тьма</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image24.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image46.jpg)</span><span class="c11">  
 
-#### ![](images/image62.jpg)
+</span>
 
-#### ![](images/image41.jpg)
+#### <span>Вода - Свет - Тьма  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image44.jpg)</span><span class="c11">  
 
-####   
+земля тьма свет</span>
+
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image62.jpg)</span>
+
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image41.jpg)</span>
+
+#### <span>  
 огонь вода природа  
-![](images/image64.jpg)
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image64.jpg)</span>
 
-![](images/image13.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image13.jpg)</span>
 
-####   
-огонь земля природа
+#### <span class="c11">  
+огонь земля природа</span>
 
-![](images/image9.jpg)  
-![](images/image59.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image9.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image59.jpg)</span>
 
-####   
+#### <span>  
 вода земля природа  
-![](images/image33.jpg)  
-![](images/image5.jpg)
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image33.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image5.jpg)</span>
 
-####   
+#### <span>  
 огонь тьма природа  
-![](images/image3.jpg)  
-![](images/image40.jpg)
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image3.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image40.jpg)</span>
 
-####   
+#### <span>  
 вода тьма природа  
-![](images/image29.jpg)  
-![](images/image56.jpg)
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image29.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image56.jpg)</span>
 
-####   
-земля тьма природа
+#### <span class="c11">  
+земля тьма природа</span>
 
-#### ![](images/image35.jpg)  
-![](images/image15.jpg)  
-  
-огонь свет природа
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image35.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image15.jpg)</span><span class="c11">  
 
-#### ![](images/image58.jpg)  
-![](images/image60.jpg)  
-вода свет природа
+огонь свет природа</span>
 
-#### ![](images/image4.jpg)![](images/image67.jpg)  
-земля свет природа
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image58.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image60.jpg)</span><span class="c11">  
+вода свет природа</span>
 
-#### ![](images/image2.jpg)  
-![](images/image27.jpg)  
-тьма свет природа
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image4.jpg)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image67.jpg)</span><span class="c11">  
+земля свет природа</span>
 
-#### ![](images/image19.jpg)![](images/image57.jpg)
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image2.jpg)</span><span>  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image27.jpg)</span><span class="c11">  
+тьма свет природа</span>
 
-Тьма
-----
+#### <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image19.jpg)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image57.jpg)</span>
 
-### Тьма + Вода  
-![](images/image36.jpg)
+## <span class="c1">Тьма</span>
 
-![](images/image6.jpg)
+<a id="id.6pamp44xcvvr"></a>
 
-### Тьма + земля
+### <span>Тьма + Вода  
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image36.jpg)</span>
 
-![](images/image54.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image6.jpg)</span>
 
-![](images/image52.jpg)
+<span class="c4"></span>
 
-### Тьма + природа  
-  
-![](images/image47.jpg)
+<a id="id.is7p8mqw2ove"></a>
 
-![](images/image34.jpg)
+### <span class="c14">Тьма + земля</span>
 
-### Огонь + Тьма
+<span class="c4"></span>
 
-![](images/image42.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image54.jpg)</span>
 
-![](images/image48.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image52.jpg)</span>
 
-### Тьма + Свет
+<span class="c4"></span>
 
-![](images/image63.jpg)
+<span class="c4"></span>
 
-![](images/image22.jpg)
+<a id="id.fuhve8xz5q6p"></a>
 
-Свет
-----
+### <span>Тьма + природа  
 
-### Свет + Земля
+</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image47.jpg)</span>
 
-![](images/image21.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image34.jpg)</span>
 
-![](images/image11.jpg)
+<span class="c4"></span>
 
-### Свет + Природа
+<a id="id.go1bfdi4uhya"></a>
 
-![](images/image14.jpg)
+### <span class="c14">Огонь + Тьма</span>
 
-![](images/image10.jpg)
+<span class="c4"></span>
 
-### Свет + Огонь
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image42.jpg)</span>
 
-![](images/image26.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image48.jpg)</span>
 
-![](images/image50.jpg)
+<span class="c4"></span>
 
-### Свет + Вода
+<a id="id.1h9mvxrk3135"></a>
 
-![](images/image16.jpg)
+### <span class="c14">Тьма + Свет</span>
 
-![](images/image43.jpg)
+<span class="c4"></span>
 
-Земля
------
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image63.jpg)</span>
 
-### Земля + Природа
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image22.jpg)</span>
 
-![](images/image38.jpg)
+<span class="c4"></span>
 
-![](images/image51.jpg)
+## <span class="c1">Свет</span>
 
-### Земля + Огонь
+<a id="id.p3kqj12v47bf"></a>
 
-![](images/image28.jpg)
+### <span class="c14">Свет + Земля</span>
 
-![](images/image12.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image21.jpg)</span>
 
-### Земля + Вода
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image11.jpg)</span>
 
-![](images/image61.jpg)
+<a id="id.5flojarmefvc"></a>
 
-Природа
--------
+### <span class="c14">Свет + Природа</span>
 
-### Природа + Огонь
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image14.jpg)</span>
 
-![](images/image66.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image10.jpg)</span>
 
-![](images/image32.jpg)
+<a id="id.e4zbs5t3qo0q"></a>
 
-### Природа + Вода
+### <span class="c14">Свет + Огонь</span>
 
-![](images/image65.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image26.jpg)</span>
 
-![](images/image23.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image50.jpg)</span>
 
-Огонь
------
+<a id="id.wm1ay61rkrfi"></a>
 
-### Огонь + Вода
+### <span class="c14">Свет + Вода</span>
 
-![](images/image25.jpg)
+<span class="c4"></span>
 
-![](images/image30.jpg)
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image16.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image43.jpg)</span>
+
+<span class="c4"></span>
+
+## <span class="c1">Земля</span>
+
+<a id="id.3w1r7vz36vr6"></a>
+
+### <span class="c14">Земля + Природа</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image38.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image51.jpg)</span>
+
+<a id="id.no4eyjuf4jm5"></a>
+
+### <span class="c14">Земля + Огонь</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image28.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image12.jpg)</span>
+
+<a id="id.j177vuuij9or"></a>
+
+### <span class="c14">Земля + Вода</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image61.jpg)</span>
+
+<span class="c4"></span>
+
+## <span class="c1">Природа</span>
+
+<span class="c4"></span>
+
+<a id="id.csf5ftwdcfx1"></a>
+
+### <span class="c14">Природа + Огонь</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image66.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image32.jpg)</span>
+
+<a id="id.7i0foym5xtdn"></a>
+
+### <span class="c14">Природа + Вода</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image65.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image23.jpg)</span>
+
+## <span class="c1">Огонь</span>
+
+<a id="id.fqomb5frf3vk"></a>
+
+### <span class="c14">Огонь + Вода</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image25.jpg)</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 601.70px; height: 338.67px;">![](images/image30.jpg)</span>
